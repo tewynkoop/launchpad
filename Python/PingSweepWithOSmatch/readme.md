@@ -10,6 +10,6 @@ Used for asset discovery across multiple subnets then exports its findings into 
 ### Running the script:
 1. Navigate to the script directory
 2. Run the script using the following formatting:
-'''
+```python
 python PingSweepWithOSmatch.py subnets.txt
-'''
+```
